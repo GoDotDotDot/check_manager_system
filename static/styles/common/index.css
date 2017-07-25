@@ -1,0 +1,9 @@
+div[data-reactroot]{
+     min-height: 100%;
+     display: flex;
+     flex-direction: column;
+}
+.root{
+     min-height: 100%;
+     height: 100%;
+}

@@ -1,0 +1,27 @@
+{
+  "name": "check_manager_system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "antd": "^2.12.2",
+    "classnames": "^2.2.5",
+    "next": "^3.0.1-beta.18",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-transition-group": "^2.2.0"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "html-webpack-plugin": "^2.29.0",
+    "styled-components": "^2.1.1"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "KUICHU",
+  "license": "ISC"
+}
